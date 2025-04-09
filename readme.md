@@ -1,3 +1,4 @@
-## Hello, Git!
+## Heyoo everyone, welcome  to by Git guide!
 
--I'm adding this from 'feature-brunch-1'
+- You, Johnny here! 
+- I'm adding this from 'feature-brunch-1'
